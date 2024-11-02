@@ -17,13 +17,9 @@ downloaded from an open online source such as Kaggle or FREDn or any other data 
 PowerBI Visuals for visualisation of Each Analysis
 VIsual such as 
 - Card
-
 -Bar chats
-
 -Donut
-
 -pie chart
-
 -slicers
 
 
