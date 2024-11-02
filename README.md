@@ -73,6 +73,18 @@ using matrix and conditional column to get a visual of the job role in compariso
 - How can excessive Attrition be prevented in the organisation
 
 
+#### Deductions and recommendations
+From the analysis carried out on the Hr data a total of 1470 employees are in the organisation, out of which 237 staffs have left the organisation remaining a total of
+1233 current employee in the organisation.The rate at which employee leaves the company was calculated to be 16%. Attrition count was gotten from subtracting total employee from the current employee.
+Analysis was also carried out on the attrition count by department which the employees belongs and it shown that R&D department has the highest number(133) OF attrited employee, followed by sales department(92) and lastly HR department (12).
+From the analysis carried out on the attrition count by education Field, it was seen that Life sciences have the highest numbers of attrited staffs with a total of 89,
+then medicals 63, marketing 35,  Technical 32, others 11 and human resources 7. It was also seen in the sum attrition count by gender that male had the highest attrition count of 150 and female had 87.
+
+
+
+
+
+
   
 
 
