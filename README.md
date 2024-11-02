@@ -27,6 +27,43 @@ Visual such as:
 
 - slicers
 
+- Measures
+
+#### key Metrics Used
+Employee in the organisation ; Using measure and card visuals to:
+1. Total Emlpoyee in the organisation
+2. Total number of current Employee in the Organisation
+3. Total number of Attrition
+
+Attrition
+Attrition rate was gotten from total number of Attrition Count / total number of Employee
+
+Age and Gender
+1. Using measures to get the Average Age of the employee
+2. using pie chart to get the attrition rate based on Age group and Gender
+3. Count of current emlpoyee by Gender
+
+Education Field
+creating a slicer at the Top of the visuals showing the various education field of each employee in the organisation, there deducing the attrition rate
+based on the educationa field
+
+Job role and Satisfaction
+using matrix and conditional column to get a visual of the job role in comparison to the job satisfaction employees that influenced the attrition rate using the rating:
+1. Dissatisfied
+2. satisfied
+3. very disatisfied
+4. very satisfied
+   
+
+
+
+
+
+   
+
+
+
+
 
 
 
