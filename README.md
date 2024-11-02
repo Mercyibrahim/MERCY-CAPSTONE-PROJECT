@@ -53,17 +53,6 @@ Age and Gender
 Education Field
 creating a slicer at the Top of the visuals showing the various education field of each employee in the organisation, there deducing the attrition rate
 based on the educationa field
-
-Job role and Satisfaction
-using matrix and conditional column to get a visual of the job role in comparison to the job satisfaction employees that influenced the attrition rate using the rating:
-
-1. Dissatisfied
-
-2. satisfied
-
-3. very disatisfied
-
-4. very satisfied
    
 #### Exploratory Data Anlysis
 ---
@@ -79,6 +68,19 @@ From the analysis carried out on the Hr data a total of 1470 employees are in th
 Analysis was also carried out on the attrition count by department which the employees belongs and it shown that R&D department has the highest number(133) OF attrited employee, followed by sales department(92) and lastly HR department (12).
 From the analysis carried out on the attrition count by education Field, it was seen that Life sciences have the highest numbers of attrited staffs with a total of 89,
 then medicals 63, marketing 35,  Technical 32, others 11 and human resources 7. It was also seen in the sum attrition count by gender that male had the highest attrition count of 150 and female had 87.
+Lastly analysis was carried out on the Attrition of based on age groups and gender and we saw that those with age groups between 25-34 had the highest attrition value of 112 males 69 females 43, followed by age group 34-44 with value 51 males 37 females 14 then age group under 25 having a value of 38 males 20 female 18, also age group 45-54 having attrition value of 25 males 16 , females 9 and lastly, age group over 55 having attrition value of 11 males 8 female 3.
+
+From all the analysis carried out it can be seen that males gender and mostly those under group of 25-34 have the higer value of those employees that have left the organisation which these can be because they are not possibly satisfied with the pay or the job roles.The Elders above 55 years have the lowest attrition count which this could mean that they are mostly convenient with the pay or the job roles. It could be seen too that those in Rand D departement had the higest number of staffs that left the organisation possibly it could be they are satisfied by the pay or the job role of the department.Although the attrrition count is still on a miniamal level this could show that the organisation is puuting its best to retain the staffs in the organisation only that some staffs especially the youths are not satisfied with the pay or job role and are seeking out for a better offer out there.
+
+The organisation can look into the reason why there is a high level of attrition of male gender and especially the youth and see a way to avoid masive numbers of attrition from the organisation which can reduce the general productivity of the organisation.
+
+
+
+
+
+
+
+
 
 
 
