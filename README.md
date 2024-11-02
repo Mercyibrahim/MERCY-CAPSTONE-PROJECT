@@ -9,4 +9,10 @@ This  Data Analysis aims to generate insight on the attrition of staff from this
 By analysing the various Parameters in the data received, I seek to gather insights to make reasonable conclusions which will then enable me explain compelling
 stories around the Data from the insight gotten and to know the possible attrition reasons of staffs fro this Organisation.
 
+#### Data Sources
+The Data used here is HR data.csv and this was given to us by our Instructor (Mr Teedee) which i made findings that its an open source Data that can be freely
+downloaded from an open online source such as Kaggle or FREDn or any other data repository site.
+
+
+
 
