@@ -75,6 +75,9 @@ From all the analysis carried out it can be seen that males gender and mostly th
 The organisation can look into the reason why there is a high level of attrition of male gender and especially the youth and see a way to avoid masive numbers of attrition from the organisation which can reduce the general productivity of the organisation.
 
 
+### DATA VISUALISATIOINS
+
+
 
 
 
