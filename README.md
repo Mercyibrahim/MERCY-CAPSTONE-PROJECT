@@ -39,8 +39,11 @@ Attrition
 Attrition rate was gotten from total number of Attrition Count / total number of Employee
 
 Age and Gender
+
 1. Using measures to get the Average Age of the employee
+
 2. using pie chart to get the attrition rate based on Age group and Gender
+
 3. Count of current emlpoyee by Gender
 
 Education Field
@@ -49,9 +52,13 @@ based on the educationa field
 
 Job role and Satisfaction
 using matrix and conditional column to get a visual of the job role in comparison to the job satisfaction employees that influenced the attrition rate using the rating:
+
 1. Dissatisfied
+
 2. satisfied
+
 3. very disatisfied
+
 4. very satisfied
    
 
