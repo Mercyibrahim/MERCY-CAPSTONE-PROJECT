@@ -13,6 +13,21 @@ stories around the Data from the insight gotten and to know the possible attriti
 The Data used here is HR data.csv and this was given to us by our Instructor (Mr Teedee) which i made findings that its an open source Data that can be freely
 downloaded from an open online source such as Kaggle or FREDn or any other data repository site.
 
+#### TOOLS USED
+PowerBI Visuals for visualisation of Each Analysis
+VIsual such as 
+- Card
+
+-Bar chats
+
+-Donut
+
+-pie chart
+
+-slicers
+
+
+
 
 
 
