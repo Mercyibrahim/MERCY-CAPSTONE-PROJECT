@@ -15,7 +15,8 @@ downloaded from an open online source such as Kaggle or FREDn or any other data 
 
 #### TOOLS USED
 PowerBI Visuals for visualisation of Each Analysis
-VIsual such as 
+
+Visual such as:
 - Card
   
 - Bar chats
