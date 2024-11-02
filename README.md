@@ -61,6 +61,14 @@ using matrix and conditional column to get a visual of the job role in compariso
 
 4. very satisfied
    
+#### Exploratory Data Anlysis
+- What is the total number of empolyee and the total number of current Employee
+- What is the atrrition count and rate based on gender, age, Education field, job roles and satisfact
+- What are the factors that contribute to the attrition of empolyees in the Organisation
+- How can excessive Attrition be prevented in the organisation
+  
+
+   
 
 
 
