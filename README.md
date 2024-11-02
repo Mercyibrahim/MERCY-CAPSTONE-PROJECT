@@ -5,15 +5,18 @@ A Project on  Sales data and customer Data of a Supermarket and the Attrition Ra
 ### Project Title: Analysis on the Attrition of Staff Using the HR Data
 
 #### Project Overview
+---
 This  Data Analysis aims to generate insight on the attrition of staff from this particular organisation over the past year using Data gotten From the HR department
 By analysing the various Parameters in the data received, I seek to gather insights to make reasonable conclusions which will then enable me explain compelling
 stories around the Data from the insight gotten and to know the possible attrition reasons of staffs fro this Organisation.
 
 #### Data Sources
+---
 The Data used here is HR data.csv and this was given to us by our Instructor (Mr Teedee) which i made findings that its an open source Data that can be freely
 downloaded from an open online source such as Kaggle or FREDn or any other data repository site.
 
 #### TOOLS USED
+---
 PowerBI Visuals for visualisation of Each Analysis
 
 Visual such as:
@@ -30,6 +33,7 @@ Visual such as:
 - Measures
 
 #### key Metrics Used
+---
 Employee in the organisation ; Using measure and card visuals to:
 1. Total Emlpoyee in the organisation
 2. Total number of current Employee in the Organisation
@@ -62,10 +66,16 @@ using matrix and conditional column to get a visual of the job role in compariso
 4. very satisfied
    
 #### Exploratory Data Anlysis
+---
 - What is the total number of empolyee and the total number of current Employee
 - What is the atrrition count and rate based on gender, age, Education field, job roles and satisfact
 - What are the factors that contribute to the attrition of empolyees in the Organisation
 - How can excessive Attrition be prevented in the organisation
+
+
+  
+
+
   
 
    
