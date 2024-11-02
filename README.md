@@ -1,4 +1,12 @@
 # MERCY-CAPSTONE-PROJECT
 A Project on  Sales data and customer Data of a Supermarket and the Attrition Rate from the HR Department of a company
 ## LITA_Capstone_Project
+
 ### Project Title: Analysis on the Attrition of Staff Using the HR Data
+
+#### Project Overview
+This  Data Analysis aims to generate insight on the attrition of staff from this particular organisation over the past year using Data gotten From the HR department
+By analysing the various Parameters in the data received, I seek to gather insights to make reasonable conclusions which will then enable me explain compelling
+stories around the Data from the insight gotten and to know the possible attrition reasons of staffs fro this Organisation.
+
+
