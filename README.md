@@ -84,10 +84,7 @@ The organisation can look into the reason why there is a high level of attrition
 <img width="614" alt="HR DATA VISUAL 2" src="https://github.com/user-attachments/assets/07735d77-a2da-45d0-a6c5-40734bef04eb">
 
 
-
-
-  
-
+<img width="617" alt="HR DATA VISUAL 3" src="https://github.com/user-attachments/assets/2e4581a7-e715-476c-b7ff-a8ef85b1e2d7">
 
   
 
