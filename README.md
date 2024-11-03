@@ -3,6 +3,25 @@ A Project on  Sales data and customer Data of a Supermarket and the Attrition Ra
 ## LITA_Capstone_Project
 
 ### Project Title: Analysis on the Attrition of Staff Using the HR Data
+[PROJECT OVERVIEW](#Project-Overview)
+
+[DATA SOURCES](#Data-Sources)
+
+[TOOLS USED](#TOOLS-USED)
+
+[KEY METRICS USED](#key-Metrics-Used)
+
+[EXPLORATORY DATA ANALYSIS](#Exploratory-Data-Anlysis)
+
+[DEDUCTIONS AND RECOMMENDATIONS](#Deductions-and-recommendations)
+
+
+
+
+
+
+
+
 
 #### Project Overview
 ---
