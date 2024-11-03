@@ -1,4 +1,4 @@
-# POWER BI HR DATA PROJECT
+<img width="614" alt="HR DATA VISUAL 2" src="https://github.com/user-attachments/assets/26c7b05b-f109-440f-ae49-067aa82abb81"># POWER BI HR DATA PROJECT
 A Project on  Sales data and customer Data of a Supermarket and the Attrition Rate from the HR Department of a company
 ## LITA_Capstone_Project
 
@@ -75,15 +75,10 @@ From all the analysis carried out it can be seen that males gender and mostly th
 The organisation can look into the reason why there is a high level of attrition of male gender and especially the youth and see a way to avoid masive numbers of attrition from the organisation which can reduce the general productivity of the organisation.
 
 
-### DATA VISUALISATIOINS
+### DATA VISUALISATION
 
 
-
-
-
-
-
-
+<img width="610" alt="HR DATA VISUAL 1" src="https://github.com/user-attachments/assets/36bb199c-5163-408c-ab83-bd9cbc09c6fb">
 
 
 
