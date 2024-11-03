@@ -1,6 +1,5 @@
-<img width="614" alt="HR DATA VISUAL 2" src="https://github.com/user-attachments/assets/26c7b05b-f109-440f-ae49-067aa82abb81"># POWER BI HR DATA PROJECT
-A Project on  Sales data and customer Data of a Supermarket and the Attrition Rate from the HR Department of a company
-## LITA_Capstone_Project
+
+## LITA_POWERBI PROJECT ON HR DATA
 
 ### Project Title: Analysis on the Attrition of Staff Using the HR Data
 [PROJECT OVERVIEW](#Project-Overview)
